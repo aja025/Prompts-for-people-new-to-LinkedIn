@@ -1,0 +1,61 @@
+{
+    "PromptId": "0",
+    "Prompt": "html/data",
+    "Author":{ 
+            "name":"data",
+    		"profileLink":"data",
+    		"profileImage":"data"
+            },
+    "ImageBackground":"data"
+}
+{
+    "PromptId": "1",
+    "Prompt": "data",
+    "Author":{ 
+            "name":"data",
+    		"profileLink":"data",
+    		"profileImage":"data"
+            },
+    "ImageBackground":"data"
+}
+{
+    "PromptId": "2",
+    "Prompt": "data",
+    "Author":{ 
+            "name":"data",
+    		"profileLink":"data",
+    		"profileImage":"data"
+            },
+    "ImageBackground":"data"
+}
+
+// {
+// 	"promptId":"1",
+// 	"propt":"data",
+// 	"author":{ 
+// 		"profileLink":"data",
+// 		"profileImage":"data"
+// 	}
+// 	"iamgeBackground":"data"
+// }
+
+
+
+// {
+//     "ConnectionStrings": {
+//         "DefaultConnection": "Data Source=CSLab05.db"
+//     },
+//     "Logging": {
+//         "IncludeScopes": false,
+//         "Debug": {
+//             "LogLevel": {
+//                 "Default": "Warning"
+//             }
+//         },
+//         "Console": {
+//             "LogLevel": {
+//                 "Default": "Warning"
+//             }
+//         }
+//     }
+// }
